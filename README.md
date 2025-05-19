@@ -20,8 +20,8 @@
   <a href="https://www.linkedin.com/in/aripilli-bhavana" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aripilli bhavana" height="30" width="40" />
   </a>
-  <a href="https://hashnode.com/@bhavanaaripilli" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bhavanaaripilli" height="30" width="40" />
+  <a href="mailto:aripilli.bhavana8@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
   </a>
 </p>
 
