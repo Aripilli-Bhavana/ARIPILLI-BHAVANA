@@ -24,22 +24,22 @@ My interests lie in **web development**, **backend systems**, **startup product 
 
 - **Languages**: Python, C  
 - **Web Development**: HTML5, CSS3, JavaScript, Tailwind CSS, React.js, Flask  
-- **Database & Backend**: SQL, MySQL, REST APIs, Flask (Basic)  
-- **Tools**: Git & GitHub, VS Code, Postman, QGIS, Power BI, Tableau  
-- **AI & NLP**: LangChain, LLaMA3, Mistral, Prompt Engineering  
+- **Database & Backend**: SQL, REST APIs, Flask (Basic)  
+- **Tools**: Git & GitHub, VS Code, Postman, QGIS, Tableau  
+- **AI & NLP**: NLP, LangChain, LLaMA3, Mistral, Prompt Engineering 
 - **Other**: Technical Documentation, Startup Planning, Product Strategy
 
 ---
 
 ### 💼 Internship Experience
 
-- **AI Intern**, *Indian Institute of Remote Sensing (IIRS), ISRO – Dehradun*  
+- **Summer Trainee**, *Indian Institute of Remote Sensing (IIRS), ISRO – Dehradun*  
   📍 *May 2025 – Jul 2025*  
   🔹 Developed **GEO-Himalaya**, a Flask-based AI chatbot using LangChain and Ollama for answering geospatial queries using Uttarakhand's government datasets.  
   🔹 Integrated dynamic LLM models (LLaMA3, Mistral) for context-specific answers using structured metadata.  
   🔹 Project proposed for integration with [maps.iirs.gov.in](https://maps.iirs.gov.in/).
 
-- **Software Development Intern**, *Defence Research and Development Laboratory (DRDL), DRDO – Hyderabad*  
+- **Summer Trainee**, *Defence Research and Development Laboratory (DRDL), DRDO – Hyderabad*  
   📍 *May 2024 – Jun 2024*  
   🔹 Designed a **role-based access control inventory management system** for secure division-wise data access.  
   🔹 Implemented real-time updates and restricted scientist access by division, enhancing data visibility and security.
