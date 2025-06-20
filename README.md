@@ -7,7 +7,7 @@
 
 I'm a Final-year B.Tech Computer Science Engineering student with a passion for solving real-world problems using technology. I'm working on building digital solutions that bridge offline needs with online convenience.
 
-My interests lie in **web development**, **backend systems**, **startup product building**, and **automation**. I enjoy collaborating with others, leading projects from ideation to execution, and continuously learning new tech stacks.
+My interests lie in **web development**, **backend systems** and **startup product building**. I enjoy collaborating with others, leading projects from ideation to execution, and continuously learning new tech stacks.
 
 ---
 
@@ -61,43 +61,6 @@ resumes, skills, and job descriptions via NLP and content-based filtering, enhan
 
 
 ---
-
-### 🌟 Leadership & Programs
-
-- **Vice President – Speaker Curator**, AIESEC Youth Speak Forum  
-  Curated impactful speaker sessions focused on Sustainable Development Goals.
-
-- **Capstone Participant**, Academy for Women Entrepreneurs (AWE), 2024  
-  Showcased Refuel startup at Capstone Day in Vizag.
-
-- **Contributor**, GirlScript Summer of Code – Extended Edition 2024  
-  Open-source contribution to real-world repositories.
-
-- **President**, Throwball SIG GITAM  
-  Revived the dormant club and expanded the team to 45+ active members.
-
----
-
-### 📜 Certifications & Achievements
-
-- Shortlisted: **Software Engineer Intern** at Zeotap  
-- Cisco Networking: Basics of IOS, IP Addressing, Switch Config  
-- Completed Product Management Internship at Agnirva  
-- Certifications: Deloitte (Data Analytics - Forage), TATA Group (Data Visualization - Forage)  
-- Rank 1 in CoCubes Pre-Assessment among 1,509 students  
-- Finalist at **LevUP Ideathon** (327+ teams) for Refuel
-
----
-
-### 🎯 Current Focus
-
-- Developing **backend and dashboard** for Refuel with dummy functionality  
-- Mastering **Git, backend APIs, and project deployment**  
-- Exploring **Data Analytics**, **Cloud Hosting**, and **AI Integration**  
-- Learning from **product strategy case studies** (Nike, Tesla, UrbanClap, Spotify)
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: [aripilli.bhavana8@gmail.com](mailto:aripilli.bhavana8@gmail.com)  
