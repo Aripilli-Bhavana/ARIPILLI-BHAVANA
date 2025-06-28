@@ -1,5 +1,5 @@
 <h1 align="center">Aripilli Bhavana</h1>
-<h3 align="center">Engineering Student | Web & Backend Developer | Startup Enthusiast</h3>
+<h3 align="center">Final Year CSE Student | Tech Enthusiast | Startup Enthusiast</h3>
 
 ---
 
