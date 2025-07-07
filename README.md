@@ -1,77 +1,23 @@
-<h1 align="center">Aripilli Bhavana</h1>
-<h3 align="center">Final Year CSE Student | Tech Enthusiast | Startup Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Aripilli Bhavana</h1>
+<h3 align="center">Final Year CSE Student | Tech Enthusiast | Startup Builder</h3>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aripilli-bhavana" alt="aripilli-bhavana" /></a> </p>
 
-### 👩‍💻 About Me
+- 👨‍💻 All of my projects will be available at [https://github.com/Aripilli-Bhavana](https://github.com/Aripilli-Bhavana)
 
-I'm a Final-year B.Tech Computer Science Engineering student with a passion for solving real-world problems using technology. I'm working on building digital solutions that bridge offline needs with online convenience.
+- 📫 How to reach me **https://linkedin.com/in/aripillbhavana**
 
-My interests lie in **web development**, **backend systems** and **startup product building**. I enjoy collaborating with others, leading projects from ideation to execution, and continuously learning new tech stacks.
+- Have a look at my resume here [https://drive.google.com/file/d/10_j0THe0XoqpbdLxbz_heRsFKJ7dmoU7/view?usp=sharing](https://drive.google.com/file/d/10_j0THe0XoqpbdLxbz_heRsFKJ7dmoU7/view?usp=sharing)
 
----
-
-### 🎓 Education
-
-- **Bachelor of Technology in Computer Science Engineering**, GITAM University  
-  📍 *Aug 2022 – May 2026*  
-  🎯 Focus: Web Development, Databases, Networks, and Algorithms  
-  📊 CGPA: 8.02/10
-
----
-
-### 💻 Technical Skills
-
-- **Languages**: Python, C  
-- **Web Development**: HTML5, CSS3, JavaScript, Tailwind CSS, React.js, Flask  
-- **Database & Backend**: SQL, REST APIs, Flask (Basic)  
-- **Tools**: Git & GitHub, VS Code, Postman, QGIS, Tableau  
-- **AI & NLP**: NLP, LangChain, LLaMA3, Mistral, Prompt Engineering 
-- **Other**: Technical Documentation, Startup Planning, Product Strategy
-
----
-
-### 💼 Internship Experience
-
-- **Summer Trainee**, *Indian Institute of Remote Sensing (IIRS), ISRO – Dehradun*  
-  📍 *May 2025 – Jul 2025*  
-  🔹 Developed **GEO-Himalaya**, a Flask-based AI chatbot using LangChain and Ollama for answering geospatial queries using Uttarakhand's government datasets.  
-  🔹 Integrated dynamic LLM models (LLaMA3, Mistral) for context-specific answers using structured metadata.  
-  🔹 Project proposed for integration with [maps.iirs.gov.in](https://maps.iirs.gov.in/).
-
-- **Summer Trainee**, *Defence Research and Development Laboratory (DRDL), DRDO – Hyderabad*  
-  📍 *May 2024 – Jun 2024*  
-  🔹 Designed a **role-based access control inventory management system** for secure division-wise data access.  
-  🔹 Implemented real-time updates and restricted scientist access by division, enhancing data visibility and security.
-
----
-
-### 🚀 Projects
-
-- **🛢 Refuel – On-demand Fuel Delivery Startup**  
-• Founded and developing an on-demand fuel delivery service designed to revolutionize the way people refuel 
-their vehicles focusing on convenience, safety, and efficiency for individual and fleet customers.  
-• Aiming to serve 1 million users by 2027, focusing on urban commuters, fleet operators, and rural areas.
-
-- **🎯 AI Driven Internship and Placement Recommendation System** *(Backend Developer)*  
-• Addressed the disconnect between student skills, internship and placement requirements and developed an AI
-powered platform using Python and React.js to automate internship/placement recommendations by analyzing 
-resumes, skills, and job descriptions via NLP and content-based filtering, enhancing role relevancy for students. 
-• Full-stack platform with ATS resume analysis, internship search, and real-time collaboration 
-
-
----
-### 📫 Let's Connect
-
-- 📧 Email: [aripilli.bhavana8@gmail.com](mailto:aripilli.bhavana8@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/aripillibhavana](https://www.linkedin.com/in/aripillibhavana)  
-- 💻 GitHub: [github.com/Aripilli-Bhavana](https://github.com/Aripilli-Bhavana)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats.vercel.app/api?username=Aripilli-Bhavana&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aripilli-Bhavana&layout=compact&theme=default" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aripillbhavana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aripillbhavana" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/a_bhavana0805" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/a_bhavana0805" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aripilli_bhavan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aripilli_bhavan2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/aripillibhavana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aripillibhavana/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aripilli-bhavana&show_icons=true&locale=en" alt="aripilli-bhavana" /></p>
