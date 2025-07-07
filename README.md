@@ -2,9 +2,7 @@
 <h3 align="center">Final Year CSE Student | Tech Enthusiast | Startup Builder</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aripilli-bhavana&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=aripilli-bhavana&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 ---
@@ -17,23 +15,23 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 
 - 🛰 **Summer Trainee at IIRS–ISRO (May–July 2025)**  
   Worked on integrating **Large Language Models (LLMs)** for intelligent map interactions on the portal [maps.iirs.gov.in](https://maps.iirs.gov.in/).  
-  My contribution focused on designing and deploying a question-answering system that interprets user queries and retrieves geospatial data using AI-enhanced search models. This enhanced usability for non-technical users navigating satellite and terrain datasets.
+  Designed a question-answering system that interprets user queries and retrieves geospatial data using AI-enhanced search models, improving usability for non-technical users exploring satellite and terrain data.
 
 - 🛡 **Intern at DRDL–DRDO (Defense Research and Development Laboratory)**  
-  Contributed to the **Inventory Management System** used internally at DRDL for organizing and tracking defense-related materials.  
-  Designed database schemas and streamlined form-based data input modules for accurate stock monitoring and reporting across various military departments.
+  Contributed to the **Inventory Management System** used for internal defense stock and logistics.  
+  Designed efficient database schemas and form-based input modules for accurate material tracking and inter-department reporting.
 
 ---
 
-- 👨‍💻 All of my projects are available at 👉 [My GitHub](https://github.com/Aripilli-Bhavana)
+### 🔗 Links
 
-- 📫 Let's connect on 👉 [LinkedIn](https://www.linkedin.com/in/aripillbhavana)
-
-- 📄 View my 👉 [Resume](https://drive.google.com/file/d/10_j0THe0XoqpbdLxbz_heRsFKJ7dmoU7/view?usp=sharing)
+- 👨‍💻 All of my projects: [GitHub](https://github.com/Aripilli-Bhavana)  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/aripillbhavana)  
+- 📄 View my [Resume](https://drive.google.com/file/d/10_j0THe0XoqpbdLxbz_heRsFKJ7dmoU7/view?usp=sharing)
 
 ---
 
-### 🔗 Connect with me:
+### 🤝 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aripillbhavana" target="_blank">
@@ -52,26 +50,25 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
 ---
@@ -79,5 +76,5 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aripilli-bhavana&show_icons=true&theme=radical" alt="Bhavana's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aripilli-bhavana&show_icons=true&theme=radical&hide=issues,contribs" alt="Bhavana's GitHub stats" />
 </p>
