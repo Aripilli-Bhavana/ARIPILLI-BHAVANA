@@ -2,7 +2,7 @@
 <h3 align="center">Final Year CSE Student | Tech Enthusiast | Startup Builder</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aripilli-bhavana&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aripilli-Bhavana&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 ---
@@ -76,9 +76,9 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aripilli-bhavana&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aripilli-bhavana&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aripilli-bhavana&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aripilli-Bhavana&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aripilli-Bhavana&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aripilli-Bhavana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -86,5 +86,5 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 ### 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aripilli-bhavana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aripilli-Bhavana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
