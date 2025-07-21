@@ -74,9 +74,6 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aripilli-Bhavana&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
