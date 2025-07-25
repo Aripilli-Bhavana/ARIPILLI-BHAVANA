@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aripilli Bhavana</h1>
 <h3 align="center">Final Year CSE Student | Tech Enthusiast | Startup Builder</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aripilli-Bhavana&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
