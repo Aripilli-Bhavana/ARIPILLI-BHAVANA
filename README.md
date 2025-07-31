@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aripilli Bhavana</h1>
-<h3 align="center">Final Year CSE Student | Tech Enthusiast | Startup Builder</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=F77EFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aripilli+Bhavana!;Final+Year+CSE+Student;Tech+Enthusiast+%7C+Startup+Builder" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -56,14 +57,33 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
+
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aripilli-Bhavana&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aripilli-Bhavana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aripilli-Bhavana&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aripilli-Bhavana&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
 
 ### 📈 Profile Views
 
