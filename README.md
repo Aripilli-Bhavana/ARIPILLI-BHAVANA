@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=100&center=true&vCenter=true&color=F77EFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aripilli+Bhavana!;Final+Year+CSE+Student;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=F77EFF&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Aripilli+Bhavana!;Final+Year+CSE+Student+%7C+Tech+Enthusiast+%7C+Startup+Builder" alt="Typing SVG" />
 </p>
 
 ---
@@ -69,13 +69,6 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aripilli-Bhavana&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
