@@ -60,23 +60,7 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aripilli-Bhavana&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aripilli-Bhavana&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
-
----
-
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aripilli-Bhavana&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
 
 ### 📈 Profile Views
 
