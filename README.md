@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=F77EFF&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Aripilli+Bhavana!;+Tech+Enthusiast+%7C+Startup+Builder" alt="Typing SVG" />
 </p>
@@ -54,16 +55,14 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
 
 ## 📊 GitHub Stats & Contributions  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aripilli-Bhavana&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aripilli-Bhavana&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aripilli-Bhavana&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aripilli-Bhavana&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
@@ -71,8 +70,6 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 </p>
 
 ---
-
-
 
 ### 📈 Profile Views
 
