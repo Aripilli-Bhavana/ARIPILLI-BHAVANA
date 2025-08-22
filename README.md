@@ -61,8 +61,9 @@ I'm a Final Year B.Tech Computer Science Engineering student passionate about us
 ## 📊 GitHub Stats & Contributions  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aripilli-Bhavana&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aripilli-Bhavana&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aripilli-Bhavana&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aripilli-Bhavana&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=F77EFF&currStreakLabel=F77EFF" />
 </p>
 
 <p align="center">
